@@ -1,16 +1,14 @@
-## Hi there 👋
+ 
+![Devilofcyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=devilofcyber&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devilofcyber&theme=transparent&hide_border=true&layout=compact)
 
-<!--
-**devilofcyber/devilofcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+![trophy](https://github-profile-trophy.vercel.app/?username=devilofcyber&theme=onedark&column=-1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilofcyber&theme=transparent" />
+</p>
+
+<br>
